@@ -1,0 +1,9 @@
+[package]
+name = "chapters"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.93"
+mupdf = "0.4.4"
+rayon = "1.10.0"
